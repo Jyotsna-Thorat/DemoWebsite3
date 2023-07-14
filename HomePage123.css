@@ -1,0 +1,191 @@
+.half {
+    display: flex;
+    width: 100%;
+    height: 530px;
+    /* background-color: rgb(224, 215, 204); */
+}
+
+.left-half {
+    width: 60%;
+    height: 530px;
+    background-color: rgb(243, 240, 237);
+    padding-top: 90px;
+}
+
+.right-half {
+    width: 40%;
+    height: 530px;
+    background-image: url(img/foodlogo3.jpg);
+    background-size: 539px 530px;
+}
+
+.navbar navbar-expand-lg bg-body-tertiary {
+    padding-top: 90px;
+}
+
+#buttons {
+    margin-left: 300px;
+}
+
+#logotext {
+    margin-left: 0px;
+}
+
+h1 {
+    color: rgb(233, 78, 22);
+}
+
+button {
+    color: white;
+    border-radius: 0%;
+}
+
+#btn1 {
+    color: black;
+    font-weight: bold;
+}
+
+form {
+    margin-left: 30px;
+}
+
+img {
+    margin-left: 60px;
+}
+
+#searchFood {
+    width: 80%;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+#find-food {
+    background-color: #e19b0adb;
+}
+
+#tag-heading {
+    animation: fadeIn 5s;
+    margin-top: 30px;
+    margin-left: 60px;
+    color: black;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    font-weight: bold;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+p {
+    margin-left: 60px;
+    font-size: 24px;
+    color: rgb(145, 152, 160);
+}
+
+.cities {
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+h5 {
+    color: rgb(124, 126, 128);
+}
+
+span {
+    font-size: 19px;
+    color: rgb(166, 167, 168);
+}
+
+.lower-half {
+    background-color: rgb(54, 50, 50);
+    height: 300px;
+    display: flex;
+}
+
+.features {
+    width: 33.33%;
+    /* margin: 3px; */
+    border: 1px red;
+    height: 300px;
+    background-color: #2b1e16;
+    /* align-items: center; */
+    /* align-content: center; */
+    text-align: center;
+}
+
+#img101 {
+    margin: auto;
+    width: 100px;
+    height: 180px;
+    opacity: 0.89;
+}
+
+#lower {
+    opacity: 89;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.feature-text {
+    font-size: medium;
+    margin: auto;
+    color: white;
+    width: 300px;
+}
+
+.container-1 {
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+
+.left-side {
+    width: 40%;
+    height: 500px;
+}
+
+#heading-1 {
+    margin-left: 80px;
+    margin-top: 150px;
+    width: 300px;
+    height: 100px;
+    color: rgb(53, 51, 51);
+    font-weight: bold;
+}
+
+#para-1 {
+    width: 400px;
+    margin-left: 80px;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.launch-in {
+    display: flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 80px;
+}
+
+#launch-in-img {
+    padding-left: 0%;
+    margin-left: 0%;
+    margin-right: 15px;
+}
+
+#right-side {
+    width: 60%;
+}
+
+.mbl-imgs {
+    display: flex;
+}

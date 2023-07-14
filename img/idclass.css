@@ -1,0 +1,38 @@
+.container1 {
+    border: 4px solid rgb(241, 118, 118);
+    background-color: rgb(238, 205, 210);
+    width: 650px;
+    margin: 43px auto;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.container2 {
+    border: 4px solid rgb(241, 118, 118);
+    background-color: rgb(238, 205, 210);
+    width: 650px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.Paragraph1 {
+    border: 3px solid rgb(169, 96, 238);
+    padding: 3px 3px 3px 28px;
+    margin: 3px;
+    width: 400px;
+}
+
+#Fruits {
+    float: right;
+    width: 42.92%;
+}
+
+#Vegetables {
+    float: left;
+    width: 43%;
+}
+
+#Flowers {
+    width: 93.2%;
+    clear: both;
+}
